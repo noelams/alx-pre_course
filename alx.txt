@@ -1,0 +1,6 @@
+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
+
+git clone https://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@github.com/noelams/alx-pre_course.git
+
+git config --global user.email "noelams03@gmail.com"
+git config --global user.name "noelams"
